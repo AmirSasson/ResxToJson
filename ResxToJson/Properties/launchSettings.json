@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ResxToJson": {
+      "commandName": "Project",
+      "commandLineArgs": "--resx-file Example.resx --out-folder \"_generated\" --out-file \"example.json\""
+    }
+  }
+}
